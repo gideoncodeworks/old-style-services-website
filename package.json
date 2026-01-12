@@ -1,0 +1,12 @@
+{
+  "name": "old-style-services-website",
+  "version": "1.0.0",
+  "description": "Website for Old Style Services LLC - Professional Landscaping in Toledo, OH",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": ["landscaping", "toledo", "ohio", "lawn-care"],
+  "author": "Old Style Services LLC",
+  "license": "MIT"
+}
